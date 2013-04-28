@@ -1,4 +1,1 @@
-p
-=
-
-pruebas
+Carga valores enteros en una cola y los muestra por pantalla cuando se ingresa el valor 0.
