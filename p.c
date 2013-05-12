@@ -19,7 +19,7 @@ struct nodo
 int main(void)
 	{
 	struct nodo *lista=NULL,*p,*r;
-
+	printf("V"\n");
 	do{
 	p=(struct nodo *) malloc (sizeof(struct nodo));
 
